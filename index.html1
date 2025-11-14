@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi pagina wed JUAN</title>
+    <style>
+        body { font-family: Arial; background: #eee; padding: 40px; }
+        .cert { width: 800px; margin: auto; padding: 40px; background: #fff;
+                border: 8px solid #f00; text-align: center; border-radius: 10px; }
+        .logo { font-size: 40px; color: #f00; font-weight: bold; }
+        .titulo { font-size: 30px; font-weight: bold; margin-top: 20px; }
+        .nombre { font-size: 28px; font-weight: bold; margin: 20px 0; }
+        .sub { font-size: 24px; color: #444; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="cert">
+    <div class="logo">▶ YouTube</div>
+
+    <div class="titulo">Certificado de Logro</div>
+
+    <div class="nombre">EL QULLITO</div>
+
+    <div class="sub">100K SUSCRITORES</div>
+
+    <p>Por alcanzar los cien mil seguidores en la plataforma.</p>
+</div>
+
+</body>
+</html>
+<h1>mi nombre completo es</h1>
+<h2>JUAN RONAL QUIRO TURPO</h2>
+<h3>soy estudiante del programa de estudios APSTI</h3>
+<h4>Estoy en el II semestre</h4>
